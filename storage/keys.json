@@ -1,0 +1,97 @@
+{
+    "admin": {
+        "key": "4f793464d83f705336aebfd0ea292006e116a88c0ea7e5f816b56c14a2d2adfa",
+        "created_at": 1745403028,
+        "expires_at": 1745489428,
+        "generated_at": "2025-04-23T10:35:11+00:00",
+        "expired": false
+    },
+    "service": {
+        "key": "f0b4a51d5bb044088fdf5f3ea75fd8bd924836a2cb4d71f55bb03ac2619d83e3",
+        "created_at": 1745403028,
+        "expires_at": 1745489428,
+        "generated_at": "2025-04-23T10:35:11+00:00",
+        "expired": false
+    },
+    "0": {
+        "id": 3,
+        "key_hex": "b1a4f2b17f961034cc5021c25d1b0823160dcf673147267f116c4be3df090620",
+        "created_day": 0,
+        "status": "expired",
+        "key": "abd8a177441381b462fe3690143d0fa1da0d022bd507c36f29d4f928dfaac4a1",
+        "generated_at": "2025-04-23T10:35:11+00:00",
+        "expired": false
+    },
+    "1": {
+        "id": 4,
+        "key_hex": "27e3a8d1b14f609430c55d5b88df26167286faedd666f10478094c5e00773d07",
+        "created_day": 1,
+        "status": "expired",
+        "key": "22e606b7d0b7c86b5e04884b99055b0dcbd628cba88d27d1c9deed5d55392b4e",
+        "generated_at": "2025-04-23T10:35:11+00:00",
+        "expired": false
+    },
+    "2": {
+        "id": 5,
+        "key_hex": "51ae772b37bf0b92be3445cea3245a0aac6d12e284c0bd3f2e5277ba1411986b",
+        "created_day": 2,
+        "status": "expired",
+        "key": "bb9a051125308571f92124dec2cf12195ff440bf230f21a83af6baafc66ffae9",
+        "generated_at": "2025-04-23T10:35:11+00:00",
+        "expired": false
+    },
+    "3": {
+        "id": 6,
+        "key_hex": "199fe58e8cdaf835e90d6bc364f141ff5c9b1f6dfdf9658a3c01bcc56c336b6b",
+        "created_day": 3,
+        "status": "expired",
+        "key": "77b22e18d0f21b19d9cdcde850f65ca06718904067641c702ea4e6af1e80c4f3",
+        "generated_at": "2025-04-23T10:35:11+00:00",
+        "expired": false
+    },
+    "4": {
+        "id": 7,
+        "key_hex": "db68e2439739403a9528c99e8775af879a3fa8cb84bb16616322876c0e0c47d1",
+        "created_day": 4,
+        "status": "expired",
+        "key": "7b6c1b0e06358288d93d33be2c4a80a04c1db30d07e85ce0af72ee973034f7fd",
+        "generated_at": "2025-04-23T10:35:11+00:00",
+        "expired": false
+    },
+    "5": {
+        "id": 8,
+        "key_hex": "0236e9b28651debb229a284dad0d74b510cb04b731170ffa3abad405e15e2362",
+        "created_day": 5,
+        "status": "expired",
+        "key": "9f2031c1271e966bc8c9689fa35448329268be2cb25793e0a1522c4e6d377022",
+        "generated_at": "2025-04-23T10:35:11+00:00",
+        "expired": false
+    },
+    "6": {
+        "id": 9,
+        "key_hex": "3ff5c1caefafc6d84efa8b9c70896579c746200a8703c876c49907ad1da2c388",
+        "created_day": 6,
+        "status": "active",
+        "key": "77ecf41fb967406efa8587209ee22c1d8298c35804d824f87b6a0c7bb4488da5",
+        "generated_at": "2025-04-23T10:35:11+00:00",
+        "expired": false
+    },
+    "alice": {
+        "key": "82214dbfc15b9b7438eec9beba642dc81ebd1e7eaac0703eb2d457ea7f9d913f",
+        "role": "admin",
+        "generated_at": "2025-04-23T10:35:11+00:00",
+        "expired": false
+    },
+    "service1": {
+        "key": "2f1a3244a7f0234c5b5514dece8f2fa4b6add876a98e41ba551cc6de5257d829",
+        "role": "service",
+        "generated_at": "2025-04-23T10:35:11+00:00",
+        "expired": false
+    },
+    "service2": {
+        "key": "311dc54f2108980fa8c128cf9a060fd9d11f22a328f590ce843610ca85795377",
+        "role": "service",
+        "generated_at": "2025-04-23T10:35:11+00:00",
+        "expired": false
+    }
+}

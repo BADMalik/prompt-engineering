@@ -1,0 +1,85 @@
+[2025-04-29 08:47:15] Retry attempt 0 for payment: txn_6810921361088
+[2025-04-29 08:47:15] Retry attempt 1 for payment: txn_6810921361088
+[2025-04-29 08:47:15] Stripe charge for client@example.com => Payment failed
+[2025-04-29 08:47:15] Refund successful for txn_abc_456
+[2025-04-29 08:47:15] Retry attempt 0 for payment: txn_681092136120c
+[2025-04-29 08:47:15] Retry attempt 1 for payment: txn_681092136120c
+[2025-04-29 08:47:15] Stripe charge for user@example.com => Payment failed
+[2025-04-29 08:47:15] Charge error: Amount must be > 0.
+[2025-04-29 08:47:15] Charge error: Invalid email.
+[2025-04-29 08:47:15] Charge error: Unsupported currency.
+[2025-04-29 08:47:15] Refund failed for txn_abc_456
+[2025-04-29 08:47:15] Stripe charge for test@example.com => Payment success
+[2025-04-29 08:47:15] Charge error: Amount must be > 0.
+[2025-04-29 08:47:15] Refund failed for txn_123
+[2025-04-29 08:47:15] Test log message
+[2025-04-29 08:47:15] Webhook event received: charge.succeeded for txn_123
+[2025-04-29 08:47:15] Retry attempt 0 for payment: txn_6810921361742
+[2025-04-29 08:47:15] Stripe charge for test@example.com => Payment success
+[2025-04-29 08:47:15] Webhook event received: charge.succeeded for txn_6810921361742
+[2025-04-29 08:47:15] Retry attempt 0 for payment: txn_681092136179f
+[2025-04-29 08:47:15] Stripe charge for test@example.com => Payment success
+[2025-04-29 08:47:15] Webhook event received: charge.succeeded for txn_681092136179f
+[2025-04-29 08:47:15] Charge error: Amount must be > 0.
+[2025-04-29 08:47:18] Stripe charge for client@example.com => Payment success
+[2025-04-29 08:47:18] Webhook event received: charge.succeeded for txn_681092169257d
+[2025-04-29 08:47:18] Refund successful for txn_abc_456
+[2025-04-29 08:47:18] Retry attempt 0 for payment: txn_68109216927d3
+[2025-04-29 08:47:18] Stripe charge for user@example.com => Payment success
+[2025-04-29 08:47:18] Charge error: Amount must be > 0.
+[2025-04-29 08:47:18] Charge error: Invalid email.
+[2025-04-29 08:47:18] Charge error: Unsupported currency.
+[2025-04-29 08:47:18] Refund failed for txn_abc_456
+[2025-04-29 08:47:18] Retry attempt 0 for payment: txn_681092169294b
+[2025-04-29 08:47:18] Retry attempt 1 for payment: txn_681092169294b
+[2025-04-29 08:47:18] Stripe charge for test@example.com => Payment failed
+[2025-04-29 08:47:18] Charge error: Amount must be > 0.
+[2025-04-29 08:47:18] Refund failed for txn_123
+[2025-04-29 08:47:18] Test log message
+[2025-04-29 08:47:18] Webhook event received: charge.succeeded for txn_123
+[2025-04-29 08:47:18] Retry attempt 0 for payment: txn_6810921692af7
+[2025-04-29 08:47:18] Stripe charge for test@example.com => Payment success
+[2025-04-29 08:47:18] Webhook event received: charge.succeeded for txn_6810921692af7
+[2025-04-29 08:47:18] Retry attempt 0 for payment: txn_6810921692b98
+[2025-04-29 08:47:18] Retry attempt 1 for payment: txn_6810921692b98
+[2025-04-29 08:47:18] Stripe charge for test@example.com => Payment failed
+[2025-04-29 08:47:18] Charge error: Amount must be > 0.
+[2025-04-29 08:47:19] Stripe charge for client@example.com => Payment success
+[2025-04-29 08:47:19] Webhook event received: charge.succeeded for txn_68109217547c5
+[2025-04-29 08:47:19] Refund successful for txn_abc_456
+[2025-04-29 08:47:19] Stripe charge for user@example.com => Payment success
+[2025-04-29 08:47:19] Charge error: Amount must be > 0.
+[2025-04-29 08:47:19] Charge error: Invalid email.
+[2025-04-29 08:47:19] Charge error: Unsupported currency.
+[2025-04-29 08:47:19] Refund failed for txn_abc_456
+[2025-04-29 08:47:19] Stripe charge for test@example.com => Payment success
+[2025-04-29 08:47:19] Charge error: Amount must be > 0.
+[2025-04-29 08:47:19] Refund failed for txn_123
+[2025-04-29 08:47:19] Test log message
+[2025-04-29 08:47:19] Webhook event received: charge.succeeded for txn_123
+[2025-04-29 08:47:19] Retry attempt 0 for payment: txn_6810921754be8
+[2025-04-29 08:47:19] Stripe charge for test@example.com => Payment success
+[2025-04-29 08:47:19] Webhook event received: charge.succeeded for txn_6810921754be8
+[2025-04-29 08:47:19] Stripe charge for test@example.com => Payment success
+[2025-04-29 08:47:19] Webhook event received: charge.succeeded for txn_6810921754c74
+[2025-04-29 08:47:19] Charge error: Amount must be > 0.
+[2025-04-29 08:47:19] Retry attempt 0 for payment: txn_68109217e00ad
+[2025-04-29 08:47:19] Stripe charge for client@example.com => Payment success
+[2025-04-29 08:47:19] Webhook event received: charge.succeeded for txn_68109217e00ad
+[2025-04-29 08:47:19] Refund successful for txn_abc_456
+[2025-04-29 08:47:19] Stripe charge for user@example.com => Payment success
+[2025-04-29 08:47:19] Charge error: Amount must be > 0.
+[2025-04-29 08:47:19] Charge error: Invalid email.
+[2025-04-29 08:47:19] Charge error: Unsupported currency.
+[2025-04-29 08:47:19] Refund successful for txn_abc_456
+[2025-04-29 08:47:19] Stripe charge for test@example.com => Payment success
+[2025-04-29 08:47:19] Charge error: Amount must be > 0.
+[2025-04-29 08:47:19] Refund successful for txn_123
+[2025-04-29 08:47:19] Test log message
+[2025-04-29 08:47:19] Webhook event received: charge.succeeded for txn_123
+[2025-04-29 08:47:19] Stripe charge for test@example.com => Payment success
+[2025-04-29 08:47:19] Webhook event received: charge.succeeded for txn_68109217e05e1
+[2025-04-29 08:47:19] Retry attempt 0 for payment: txn_68109217e064a
+[2025-04-29 08:47:19] Retry attempt 1 for payment: txn_68109217e064a
+[2025-04-29 08:47:19] Stripe charge for test@example.com => Payment failed
+[2025-04-29 08:47:19] Charge error: Amount must be > 0.

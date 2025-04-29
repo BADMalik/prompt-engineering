@@ -1,0 +1,12 @@
+[LOG] 2025-04-25 07:22:40 - Thread (0) incremented counter to: 1
+[LOG] 2025-04-25 07:22:40 - Thread (0) incremented counter to: 2
+[LOG] 2025-04-25 07:22:40 - Thread (0) incremented counter to: 3
+[LOG] 2025-04-25 07:22:40 - Thread (0) incremented counter to: 4
+[LOG] 2025-04-25 07:22:40 - Thread (0) incremented counter to: 5
+[LOG] 2025-04-25 07:22:40 - All threads (child processes) have finished.
+[LOG] 2025-04-25 07:23:08 - Thread (0) incremented counter to: 6
+[LOG] 2025-04-25 07:23:08 - Thread (0) incremented counter to: 7
+[LOG] 2025-04-25 07:23:08 - Thread (0) incremented counter to: 8
+[LOG] 2025-04-25 07:23:08 - Thread (0) incremented counter to: 9
+[LOG] 2025-04-25 07:23:08 - Thread (0) incremented counter to: 10
+[LOG] 2025-04-25 07:23:08 - All threads (child processes) have finished.
