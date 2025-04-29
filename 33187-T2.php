@@ -84,7 +84,7 @@ class DynamicArray
     public function logStats()
     {
         echo "Size = " . $this->size . "\n";
-        echo "Cap = " . $this . capacity . "\n";
+        echo "Cap = " . $this->capacity . "\n";
         echo "Resizes = " . $this->resizeCount . "\n";
         echo "Mem: " . memory_get_usage(false) . "B\n";
     }
